@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eren-said-himyeri-709963194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eren-said-himyeri-709963194/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eren-said-himyeri-709963194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/eren-said-himyeri-709963194/](https://www.linkedin.com/in/eren-said-himyeri-709963194/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlRI7PmLOSr2ZbS0Rb%2BQRbA%3D%3D&original_referer=)" height="30" width="40" /></a>
 <a href="https://instagram.com/erensaidhimyeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erensaidhimyeri" height="30" width="40" /></a>
 </p>
 
